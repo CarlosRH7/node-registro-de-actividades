@@ -3,6 +3,5 @@
 Instalar los paquetes de node:
 
 ```
-
 npm install
 ```
